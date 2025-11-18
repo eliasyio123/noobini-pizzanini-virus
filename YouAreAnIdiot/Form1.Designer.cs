@@ -76,7 +76,7 @@
             this.Name = "Form1";
             this.ShowIcon = false;
             this.ShowInTaskbar = false;
-            this.Text = "You Are an Idiot!";
+            this.Text = "You Been Noobini Pizzaninied virus";
             this.TopMost = true;
             this.ResumeLayout(false);
 
