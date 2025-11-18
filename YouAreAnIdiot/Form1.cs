@@ -65,7 +65,7 @@ namespace YouAreAnIdiot
 
         private void timer3_Tick(object sender, EventArgs e)
         {
-            MessageBox.Show("You Are an Idiot!");
+            MessageBox.Show("You Been Noobini Pizzaninied virus");
         }
     }
 }
